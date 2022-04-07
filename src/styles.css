@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.outer {
+  height: 300px;
+  width: 300px;
+  clear: both;
+}
+
+.inner {
+  height: 100px;
+  width: 100px;
+  clear: both;
+  border: blue;
+  border-style: solid;
+  border-width: 10px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
